@@ -1,0 +1,11 @@
+---
+slug: davinci_command_line
+filename: davinci_command_line
+title: Title of the Book
+subtitle: Change me
+description: Change me.
+author: Author Name
+copyright: 2016
+uuid: 9905d417-4c97-450c-80e3-caf7a224f221
+pdf_preview_page_range: 1..30
+epub_mobi_preview_chapter_range: 0..1
