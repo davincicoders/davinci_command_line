@@ -18,3 +18,7 @@ markdown files, the browser will auto-reload with the changes.
 * Create a new markdown file in the chapters/ directory
 
 * Add the chapter file name to Books.txt
+
+## Softcover How-To
+
+http://manual.softcover.io/book/_single-page
