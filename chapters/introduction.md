@@ -6,16 +6,17 @@ Evernote is a very powerful tool for taking and organizing notes. You can share
 a notebook to collaborate with others or use it as a quick way to store references
 for your own personal use.
 
-Read the Evernote [guide](https://evernote.com/evernote/guide/mac/#1) for a quick tutorial
+Read the [Evernote Guide](https://evernote.com/evernote/guide/mac/#1) for a quick tutorial
 
-## Write down questions as they come to you
+### Write down questions as they come to you
 
 As you follow the exercises in this book, use Evernote to keep track of questions,
 write down handy commands, and paste web links that are helpful learning resources.
-
 Perhaps you have a question about `cd` like, "What happens when I try to `cd` into
 a file instead of a directory?" Write down your questions so you can ask them in
-class. Or better yet, write down questions so you can read a chapter without being
+class.
+
+Or better yet, write down questions so you can read a chapter without being
 interrupted. At the very end, investigate your questions on the internet. The best
 way to learn is to teach yourself and struggle with a concept instead of simply
 getting an answer from a more experienced mentor.
@@ -32,7 +33,8 @@ to your programming experience.
 
 As you work on the exercises in this book, you'll want to copy and paste at times.
 We get it. But remember that you'll be using these commands every day. Part of the
-practice in answering the homework exercises is to help develop muscle memory.
+practice in answering the homework exercises is to help develop muscle memory. Keep
+this in mind as you do the exercises for each chapter.
 
 ## Commands we're going to learn
 
@@ -93,7 +95,9 @@ practice in answering the homework exercises is to help develop muscle memory.
 \end{tabular}
 \end{table}
 
-### Make Flash cards for each
+### Exercises
+
+## Make flash cards for each command
 
 Write the command on the front of the card (`pwd`) and what it does on the back
 of the card (`print working directory`). You should be able to match each command
@@ -101,5 +105,5 @@ to its description and vice versa. This is important for being able to pair with
 other programmers effectively.
 
 If someone asks you what directory you're in, you should know to use `pwd` to
-print working directory. If someone wants to `cd` somewhere, you should rememer
+print working directory. If someone wants to `cd` somewhere, you should remember
 that you are changing directories.
